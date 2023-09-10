@@ -5,4 +5,5 @@ Categoriezed Virginia counties into 7 distinct categories based on poison death 
 (2-5.9, 6-9.9, 10-13.9, ..., 22-25.9, 26+) deaths per 100k people
 
 Used demographics, school enrollment data, drug use data, medicare enrollment data, and labor force data to predict poisoning deaths
-Resulting in 80% accuracy and .80 f1 score.
+
+Determined correct category with 80% accuracy and .80 f1 score.
